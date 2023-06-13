@@ -2,4 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/dipendr4/learn.dipendrasecondaryschool.edu.np
-    - /bin/cp -r /home/dipendr4/repositories/laravel-auto-deploy-test/ $DEPLOYPATH
+    - /bin/cp -r /home/dipendr4/repositories/laravel-auto-deploy-test/ /home/dipendr4/learn.dipendrasecondaryschool.edu.np
