@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/dipendr4/learn.dipendrasecondaryschool.edu.np/
+    - /bin/cp * $DEPLOYPATH
