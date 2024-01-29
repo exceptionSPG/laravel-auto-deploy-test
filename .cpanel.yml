@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/dipendr4/learn.dipendrasecondaryschool.edu.np
-    - /bin/cp -RT /home/dipendr4/repositories/laravel-auto-deploy-test /home/dipendr4/learn.dipendrasecondaryschool.edu.np
+    - export DEPLOYPATH=/home4/manmohan/learn.dss.manmohanmemorialhospital.com
+    - /bin/cp -RT /home4/manmohan/repositories/dss-repos/laravel-auto-deploy-test $DEPLOYPATH
